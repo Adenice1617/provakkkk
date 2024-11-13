@@ -1,5 +1,5 @@
 body{
-color: white;
+color: rgb(24, 8, 245);
 background:black;
 margin: 0px;
 font-family: "Roboto", sans-serif;
@@ -10,12 +10,12 @@ header{
     border-bottom: solid 2px rgb(42,122,228);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42,122,228);
+    color: rgb(79, 4, 14);
 
 }
 
 .chamada{
-    background: rgb(184,156,213);
+    background: rgb(53, 12, 98);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -49,8 +49,8 @@ p{
 }
 .categoria-videos img:hover{
     opacity: 1.0;
-    border: 5px solid orange;
+    border: 5px solid rgb(21, 0, 255);
 }
 .categoria h2{
-    color: rgb(42,122,228);
+    color: rgb(228, 42, 64);
 }
